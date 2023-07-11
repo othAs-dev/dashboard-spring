@@ -1,1 +1,1 @@
-spring boot using vaadin
+spring boot dashboard application using vaadin
